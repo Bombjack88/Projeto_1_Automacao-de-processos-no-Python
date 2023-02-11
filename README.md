@@ -1,4 +1,4 @@
-# Automação de processos no Python - > calculo de indicadores e envio de e-mail (outlook)
+# Projeto 1 - Automação de processos no Python - > calculo de indicadores e envio de e-mail (outlook)
  
 Este projecto simula a automação de um processo de envio de relatórios de faturação diários via e-mail para um conjunto de lojas, mais o envio de um relatório agregado para a direção.
 Os inputs são 3 ficheiros excel: i) lista de lojas: ii) base de dados de faturação diária po loja; iii) lista de contactos dos gerentes de cada loja.
